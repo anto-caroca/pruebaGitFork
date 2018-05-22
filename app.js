@@ -1,3 +1,3 @@
 window.onload = () => {
-    console.log(pagina cargada);
+    console.log("pagina cargada");
 }
